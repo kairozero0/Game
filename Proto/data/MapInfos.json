@@ -1,0 +1,15 @@
+[
+null,
+{"id":1,"expanded":false,"name":"Dev Zone","order":1,"parentId":0,"scrollX":600.6666666666666,"scrollY":406},
+{"id":2,"expanded":false,"name":"Eleria Center","order":2,"parentId":0,"scrollX":1572.6666666666667,"scrollY":892.6666666666666},
+{"id":3,"expanded":true,"name":"Eleria Library","order":3,"parentId":2,"scrollX":675.75,"scrollY":503.25},
+{"id":4,"expanded":false,"name":"West Wing","order":4,"parentId":3,"scrollX":675.75,"scrollY":491.25},
+{"id":5,"expanded":false,"name":"West Wing 2nd Floor","order":5,"parentId":3,"scrollX":832,"scrollY":640},
+{"id":6,"expanded":false,"name":"West Wing 3rd floor","order":6,"parentId":3,"scrollX":832,"scrollY":640},
+{"id":7,"expanded":false,"name":"East Wing","order":7,"parentId":3,"scrollX":832,"scrollY":640},
+{"id":8,"expanded":false,"name":"East Wing Bedrooms","order":8,"parentId":3,"scrollX":832,"scrollY":640},
+{"id":9,"expanded":false,"name":"East Wing Storage Room","order":9,"parentId":3,"scrollX":832,"scrollY":640},
+{"id":10,"expanded":true,"name":"Eleria Basement","order":10,"parentId":3,"scrollX":675.75,"scrollY":503.25},
+{"id":11,"expanded":false,"name":"Summoning Room","order":12,"parentId":3,"scrollX":832,"scrollY":640},
+{"id":12,"expanded":false,"name":"Cloth Room","order":11,"parentId":10,"scrollX":366.8,"scrollY":250}
+]
