@@ -1,7 +1,7 @@
 [
 null,
-{"id":1,"list":[{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["Unit has learned \\i[78]\\c[6]Stab"]},{"code":0,"indent":0,"parameters":[]}],"name":"ConsumeMemFruitStab","switchId":1,"trigger":1},
-{"id":2,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":1,"list":[{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["Unti has Learned Stab"]},{"code":0,"indent":0,"parameters":[]}],"name":"ConsumeMemFruitStab","switchId":1,"trigger":0},
+{"id":2,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":6,"trigger":0},
 {"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
 {"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
 ]
